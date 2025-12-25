@@ -432,14 +432,14 @@ const FacultySection = () => (
           <h3 className="text-2xl font-semibold text-green-700">Mrs. Gautami and Mrs. Padmaja</h3>
           <p className="text-green-500 text-lg mb-2">Mathematics Educator</p>
           <p className="text-gray-700 text-sm">
-            Mrs. Gautami & Padmaja makes complex mathematical concepts accessible and enjoyable, fostering strong analytical and problem-solving skills in his students.
+            Mrs. Gautami & Mrs Padmaja makes complex mathematical concepts accessible and enjoyable, fostering strong analytical and problem-solving skills in his students.
           </p>
         </div>
 
         {/* Placeholder Faculty 3 */}
         <div className="bg-white p-6 rounded-xl shadow-md text-center transform hover:scale-105 transition-transform duration-300">
           <img src="https://placehold.co/150x150/EF4444/FFFFFF/png?text=Teacher+3" alt="Faculty Member" className="rounded-full w-32 h-32 mx-auto mb-4 object-cover border-4 border-red-300" />
-          <h3 className="text-2xl font-semibold text-red-700">Mrs Bhagya Lakshmi with Mrs Sravanthi</h3>
+          <h3 className="text-2xl font-semibold text-red-700">Mrs Bhagya Lakshmi with Mrs Samatha: Mrs. Padma Sri & Mrs. Sravanthi </h3>
           <p className="text-red-500 text-lg mb-2">Science Coordinators</p>
           <p className="text-gray-700 text-sm">
             Both are innovative teaching methods bring science to life, encouraging students to explore the natural world with curiosity and scientific rigor.
@@ -473,7 +473,7 @@ const ContactSection = () => (
           <div className="space-y-6 text-lg text-gray-700">
             <p className="flex items-center">
               <i className="fas fa-map-marker-alt text-indigo-600 mr-3 text-2xl"></i>
-              <span>Sai Krishna Colony, St. 3 Budvel, Rajendranagar, Hyderabad, Telangana</span>
+              <span>Sai Krishna Colony, St. 3, Budvel, Rajendranagar, Hyderabad, Telangana</span>
             </p>
             <p className="flex items-center">
               <i className="fas fa-phone-alt text-indigo-600 mr-3 text-2xl"></i>
